@@ -11,7 +11,7 @@ ul,details,summary{
     width: 400px;
     background-color: antiquewhite;
     margin: 10px;
-    border: 3px solid gray;
+    border: 3px solid lightgray;
     display: flex;
     flex-direction: column;
     align-items: center;
